@@ -4,7 +4,7 @@
 <br />
 <h3>🌐 Web Developer | 💻 Creativity & Technology | 🚀 Building the future of the web</h3> <br />
 <h3>🔍 About me:</h3>
-<p>I'm a brazilian Full Stack Developer committed to areas that work with creativity and innovation. I'm 16 years old and I've been studying technology since I was 14. I'm an enthusiast of modern technologies and I love working with projects that include a lot of Design! <br /> : ) </p>
+<p>I'm a brazilian Full Stack Developer committed to areas that work with creativity and innovation. I'm 17 years old and I've been studying technology since I was 14. I'm an enthusiast of modern technologies and I love working with projects that include a lot of Design! <br /> : ) </p>
 
 <h3>💼 Experience:</h3>
 <ul>
