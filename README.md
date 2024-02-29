@@ -18,7 +18,7 @@
 <h3>🛠️ Technologies:</h3>
 <ul>
   <li>Languages: HTML, CSS, Javascript, Python, Java</li>
-  <li>Frameworks: Node.js, Express</li>
+  <li>Frameworks: Node.js, Express, React</li>
   <li>Tools: Photoshop, VSCode, Insomnia, Pinterest</li>
 </ul>
 <div>
