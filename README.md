@@ -54,5 +54,5 @@ Some of my projects:
 <li>Website: <a href="https://henrithedragonborn.github.io">Click</a></li>
 </ul>
 <br />
-<h1>Kevin Powell's apprentice</h1>
+<h3>Kevin Powell's apprentice</h3>
 <i>'I always come back!'</i>
