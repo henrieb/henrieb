@@ -34,20 +34,6 @@
   <img align="center" alt="SQL"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
 <div>
-<h3>📚 Projects:</h3>
-Some of my projects:
-
-1. [HWEB](https://henrithedragonborn.github.io): Promotion of my services. I acquired great knowledge of UI/UX.
-2. [Outlast Fanpage](https://henrithedragonborn.github.io/outlastfanpage/): A brazilian fanpage about one of the best games I've ever played. Playing the whole game again to write down my experiences was a real challenge. That was nice!
-3. [Hilgym](): I am developing this project as a final work. I work mainly in the areas of design, UI / UX, database creation and mobile applications
-</div>
-<br />
-<h3>🌟 Open Source Contributions:</h3>
-<a href="https://www.youtube.com/channel/UCs8kCP-SDYrx7lBN6DRDqeQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Buy_me_a_Coffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
-<br />
-<h3>💬 Let's work together?</h3>
-<p>I am always open to new projects and collaboration opportunities. If you're looking for an experienced and passionate web developer, get in touch! Let's build something amazing!</p>
 <br />
 <h3>📫 Get in touch:</h3>
 <ul>
