@@ -37,7 +37,7 @@
 <br />
 <h3>📫 Get in touch:</h3>
 <ul>
-<li>Email: henriswebadm@gmail.com</li>
+<li>Email: ph.simoncini@gmail.com</li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/henri-eb-a71453276/">Click</a></li>
 <li>Twitter: <a href="https://twitter.com/henritdb">Click</a></li>
 <li>Website: <a href="https://henrithedragonborn.github.io">Click</a></li>
