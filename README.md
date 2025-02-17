@@ -1,13 +1,12 @@
 <h1>👋 Hello, I'm Henri <br /> 🇧🇷</h1>
-<a href="https://henrithedragonborn.github.io/">@henrithedragonborn</a>
 
 <br />
 <h3>🌐 Web Developer | 💻 Creativity & Technology | 🚀 Building the future of the web</h3> <br />
 <h3>🔍 About me:</h3>
 <p>I'm a brazilian Full Stack Developer committed to areas that work with creativity and innovation. I'm 18 years old and I've been studying technology since I was 14. I'm an enthusiast of modern technologies and I love working with projects that include a lot of Design! <br /> : ) </p>
 <div align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=henrithedragonborn&show_icons=true&hide=stars,issues&theme=midnight-purple">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrithedragonborn&layout=compact&theme=midnight-purple"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
 <h3>💼 Experience:</h3>
 <ul>
@@ -40,8 +39,6 @@
 <li>Email: ph.simoncini@gmail.com</li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/henri-eb-a71453276/">Click</a></li>
 <li>Twitter: <a href="https://twitter.com/henritdb">Click</a></li>
-<li>Website: <a href="https://henrithedragonborn.github.io">Click</a></li>
 </ul>
 <br />
 <h3>Kevin Powell's apprentice</h3>
-<i>'I always come back!'</i>
