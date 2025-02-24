@@ -20,8 +20,8 @@
 <h3>🛠️ Technologies:</h3>
 <ul>
   <li>Languages: HTML, CSS, Javascript, Python, Java</li>
-  <li>Frameworks: Node.js, Express, React</li>
-  <li>Tools: Photoshop, VSCode, Insomnia, Pinterest</li>
+  <li>Frameworks: Node.js, Bootstrap, React</li>
+  <li>Tools: Photoshop, VSCode, Insomnia, Figma</li>
 </ul>
 <div>
 <img align="center" alt="HTMl" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
