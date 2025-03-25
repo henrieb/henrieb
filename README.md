@@ -6,7 +6,7 @@
 <p>I'm a brazilian Full Stack Developer committed to areas that work with creativity and innovation. I'm 18 years old and I've been studying technology since I was 14. I'm an enthusiast of modern technologies and I love working with projects that include a lot of Design! <br /> : ) </p>
 <div align="center">
   <img height="200em" width="39%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
-  <img height="200em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
+  <img height="160em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
 <h3>💼 Experience:</h3>
 <ul>
