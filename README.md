@@ -9,7 +9,7 @@
   <img height="160em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=henrieb&theme=onedark&margin-w=5)](https://github.com/henrieb/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=henrieb&theme=onedark&margin-w=15)](https://github.com/henrieb/github-profile-trophy)
 
 <h3>💼 Experience:</h3>
 <ul>
