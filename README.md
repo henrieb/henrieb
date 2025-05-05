@@ -10,6 +10,7 @@
 </div>
 <hr>
 ## 🏆
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=henrieb&theme=onedark&margin-w=15)](https://github.com/henrieb/github-profile-trophy)
 
 <h3>💼 Experience:</h3>
