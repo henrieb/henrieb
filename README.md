@@ -8,8 +8,8 @@
   <img height="200em" width="39%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
   <img height="160em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
-<hr>
 <h1>🏆</h1>
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=henrieb&theme=onedark&margin-w=15)](https://github.com/henrieb/github-profile-trophy)
 
 <h3>💼 Experience:</h3>
