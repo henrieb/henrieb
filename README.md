@@ -39,8 +39,10 @@
 <div>
 <br />
 <h3>📫 Get in touch:</h3>
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henri_simoncini)
+
 <ul> 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henri_simoncini) 
 <li>Email: ph.simoncini@gmail.com</li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/p-henrique-simoncini-a71453276/">Click</a></li>
 </ul>
