@@ -37,7 +37,7 @@
 <h3>📫 Get in touch:</h3>
 <ul>
 <li>Email: ph.simoncini@gmail.com</li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/henri-eb-a71453276/](https://www.linkedin.com/in/p-henrique-simoncini-a71453276/">Click</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/p-henrique-simoncini-a71453276/">Click</a></li>
 </ul>
 <br />
 <h3>Kevin Powell's apprentice</h3>
