@@ -8,7 +8,7 @@
   <img height="200em" width="39%" src="https://github-readme-stats.vercel.app/api?username=henrieb&show_icons=true&hide=stars,issues&theme=midnight-purple">
   <img height="160em" width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrieb&layout=compact&theme=midnight-purple"/>
 </div>
-## 🏆 Troféus
+## 🏆 Troféus 
 ![](https://github-profile-trophy.vercel.app/?username=henrieb&theme=default&no-frame=true&no-bg=true&margin-w=4)
 <hr>
 <h3>💼 Experience:</h3>
